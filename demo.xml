@@ -4,7 +4,7 @@
   <test name="Leads">
     <!-- demo -->
     <classes>
-      <class name="com.leaftaps.testcases.TC001_JustLogin"/>
+      <class name="com.leaftaps.testcases.TC002_JustLogin"/>
     </classes>
   </test> 
 </suite>
