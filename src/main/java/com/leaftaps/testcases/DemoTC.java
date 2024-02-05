@@ -8,6 +8,8 @@ public class DemoTC {
 		int a = 50;
 		int b = 40;
 		int c = a + b;
+		int d = a * b;
+		System.out.println("The multiplication is " +d);
 		System.out.println("The sum is " +c);
 		System.out.println("This is an addition operation");
 
